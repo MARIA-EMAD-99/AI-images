@@ -1,0 +1,1220 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>N24 Creative Agency</title>
+
+    <meta name="description" content="N24 creative agency" />
+    <meta
+      name="keywords"
+      content="
+    تسويق
+    تسويق رقمي
+    التسويق الالكتروني
+    تسويق الكتروني
+    تعريف التسويق
+    التسويق بالعمولة نون
+    ماهو التسويق
+    استراتيجيات التسويق
+    التسويق الإلكتروني
+    التسويق بالمحتوى
+    ادارة التسويق
+    مبادئ التسويق
+    وظائف التسويق
+    ماهو التسويق الرقمي
+    مهارات التسويق
+    تسويق إلكتروني
+    مدير تسويق
+    التسويق الذكي
+    تسويقي
+    شركة تسويق رقمي
+    عالم التسويق
+    مستشار تسويق
+    شركة التسويق
+    مكتب تسويق الكتروني
+    events
+    ماركتنج
+    ماركتنق
+    digital marketing agency
+    الديجيتال ماركتنج
+    creative agency
+    تصوير فوتوغرافي
+    مصور فوتوغرافي
+    دورات تصوير
+    تصوير المنتجات
+    on a way
+    التصوير الاحترافي
+    استوديو التصوير الفوتوغرافي
+    ways
+    serb
+    استوديو التصوير
+    تصوير
+    استديوهات تصوير
+    شركة تسويق 
+    شركة تسويق الكتروني 
+    advertising company
+    marketing company
+    branding agency
+    digital marketing company
+    marketing agency riyadh
+    branding and design agency
+    digital marketing and advertising agency
+    media agencies
+    digital media advertising agency
+    media digital marketing
+    branding design agency
+    advertising agency services
+    creative design agency
+    agency marketing
+    ad marketing agency
+    market agency
+    profile company
+    branding agency riyadh
+    content agency
+    marketing agency company
+    creative content agency
+    agency digital marketing
+    creative agency riyadh
+    media marketing company
+    branding and marketing agency
+    branding companies
+    advertising agency riyadh
+    business marketing agency
+    marketing advertising agency
+    digital agency services
+    branding creative
+    digital branding agency
+    digital media marketing agency
+    advertising agency company
+    creative digital agency
+    digital marketing agency near me
+    media marketing agency
+    online advertising agency
+    digital creative agency
+    media agency services
+    best digital marketing company
+    advertising marketing agency
+    media advertising agency
+    creative marketing agency
+    creative digital marketing agency
+    design agency services
+    creatives in advertising
+    best digital agency
+    creative advertising agency
+    internet advertising agency
+    best creative agency names
+    digital ad agency
+    brand advertising agency
+    digital content marketing agency
+    creative and digital agency
+    digital media marketing company
+    digital advertising agencies
+    agency digital
+    brand marketing agency
+    instagram advertising agency
+    creative branding agency
+    advertising agency business
+    best internet marketing agency
+    best marketing agency
+    marketing design agency
+    marketing agency services
+    branding agency services
+    a creative agency
+    creative agency services
+    advertising agency near me
+    branding agency near me
+    advertising agency ads
+    creative marketing
+    digital agency adalah
+    ad agency services
+    digital media agency
+    media firm
+    list of advertising agencies
+    top creative agencies
+    advertising agency profile
+    online creative agency
+    creative web design agency
+    digital marketing agency company
+    creative branding company
+    digital marketing company profile
+    advertising agency in saudi arabia
+    media creative agency
+    best advertising agencies in the world
+    brand strategy agency
+    agency marketing digital
+    best marketing company
+    branded content agency
+    advertising agency management
+    advertising agency marketing
+    content marketing companies
+    advertising agency about us
+    the marketing agency
+    web advertising agency
+    branding agency logo
+    digital content agency
+    the ad agency
+    creative web agency
+    marketing solutions agency
+    branding and advertising agency
+    advertising agencies in the world
+    advertising design agency
+    top creative agencies in the world
+    design and marketing agency
+    agency creative
+    creative agency logo
+    marketing and advertising agency
+    branding and web design agency
+    creative advertising company
+    creative ad agency
+    advertising agency design
+    creative pr agency
+    digital agency marketing
+    agency media
+    creative digital ads
+    marketing agency digital
+    digital creative
+    best advertising agencies
+    media marketing services
+    digital marketing advertising agency
+    creative digital advertising
+    a marketing company
+    creative digital marketing company
+    digital agency company
+    the marketing company
+    "
+    />
+
+    <link
+      rel="icon"
+      type="image/png"
+      href="assets/images/logo/favicon-16x16.png"
+      sizes="16x16"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      href="assets/images/logo/favicon-32x32.png"
+      sizes="32x32"
+    />
+
+    <!-- fonts -->
+    <!-- <link
+      href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,500,600,700%7COswald:300,400,500,600,700"
+      rel="stylesheet"
+      type="text/css"
+    /> -->
+
+    <!-- styles -->
+    <link href="assets/css/plugins.css" rel="stylesheet" type="text/css" />
+    <link href="assets/css/style.css" rel="stylesheet" type="text/css" />
+    <meta
+      name="google-site-verification"
+      content="HojHU8c8qZqEsN9DvipzY2xCwjyYsaf3g1VpCaAEA9Y"
+    />
+  </head>
+  <body class="loader">
+    <!-- loading start -->
+    <div class="loading">
+      <img
+        class="logo-loading"
+        src="assets/images/logo/logo-loader.png"
+        alt="logo"
+        loading="lazy"
+      />
+    </div>
+    <!-- loading end -->
+
+    <!-- pointer start -->
+    <div class="pointer" id="pointer">
+      <i class="fas fa-long-arrow-alt-right"></i>
+      <i class="fas fa-search"></i>
+      <i class="fas fa-link"></i>
+    </div>
+    <!-- pointer end -->
+
+    <!-- to-top-btn start -->
+    <a class="to-top-btn pointer-small" href="#up">
+      <span class="to-top-arrow"></span> </a
+    ><!-- to-top-btn end -->
+
+    <!-- header start -->
+    <header class="fixed-header">
+      <!-- header-flex-box start -->
+      <div class="header-flex-box">
+        <!-- logo start -->
+        <a href="index.html" class="logo pointer-large animsition-link">
+          <div class="logo-img-box">
+            <img
+              class="logo-white"
+              src="assets/images/logo/logo-white.png"
+              alt="logo"
+              loading="lazy"
+            />
+            <img
+              class="logo-black"
+              src="assets/images/logo/logo-black.png"
+              alt="logo"
+              loading="lazy"
+            />
+          </div> </a
+        ><!-- logo end -->
+
+        <!-- menu-open start -->
+        <div class="menu-open pointer-large">
+          <span class="hamburger"></span>
+        </div>
+        <!-- menu-open end -->
+      </div>
+      <!-- header-flex-box end -->
+    </header>
+    <!-- header end -->
+
+    <!-- nav-container start -->
+    <nav class="nav-container dark-bg-1">
+      <!-- nav-logo start -->
+      <div class="nav-logo">
+        <img
+          src="assets/images/logo/logo-white.png"
+          alt="logo"
+          loading="lazy"
+        />
+      </div>
+      <!-- nav-logo end -->
+
+      <!-- menu-close -->
+      <div class="menu-close pointer-large"></div>
+
+      <!-- dropdown-close-box start -->
+      <div class="dropdown-close-box">
+        <div class="dropdown-close pointer-large">
+          <span></span>
+        </div>
+      </div>
+      <!-- dropdown-close-box end -->
+
+      <!-- nav-menu start -->
+      <ul class="nav-menu dark-bg-1">
+        <!-- nav-box start -->
+        <li class="nav-box nav-bg-change active">
+          <a href="index.html" class="pointer-large nav-link">
+            <span class="nav-btn active" data-text="Home">Home</span>
+          </a>
+          <div
+            class="nav-bg"
+            style="background-image: url(assets/images/backgrounds/menu1.jpg)"
+          ></div>
+        </li>
+        <!-- nav-box end -->
+        <!-- nav-box start -->
+        <li class="nav-box nav-bg-change">
+          <a href="about.html" class="animsition-link pointer-large nav-link">
+            <span class="nav-btn" data-text="About">About</span>
+          </a>
+          <div
+            class="nav-bg"
+            style="background-image: url(assets/images/backgrounds/menu2.jpg)"
+          ></div>
+        </li>
+        <!-- nav-box end -->
+        <!-- nav-box start -->
+        <li class="nav-box nav-bg-change">
+          <a
+            href="services.html"
+            class="animsition-link pointer-large nav-link"
+          >
+            <span class="nav-btn" data-text="Services">Services</span>
+          </a>
+          <div
+            class="nav-bg"
+            style="background-image: url(assets/images/backgrounds/menu3.jpg)"
+          ></div>
+        </li>
+        <!-- nav-box end -->
+        <!-- nav-box start -->
+        <li class="nav-box nav-bg-change">
+          <a href="portfolio.html" class="pointer-large nav-link">
+            <span class="nav-btn" data-text="Portfolio">Portfolio</span>
+          </a>
+
+          <div
+            class="nav-bg"
+            style="background-image: url(assets/images/backgrounds/menu4.jpg)"
+          ></div>
+        </li>
+        <!-- nav-box end -->
+
+        <!-- nav-box start -->
+        <li class="nav-box nav-bg-change">
+          <a href="contact.html" class="animsition-link pointer-large nav-link">
+            <span class="nav-btn" data-text="Contact Us">Contact Us</span>
+          </a>
+          <div
+            class="nav-bg"
+            style="background-image: url(assets/images/backgrounds/menu5.jpg)"
+          ></div>
+        </li>
+        <!-- nav-box end -->
+        <li class="nav-box nav-bg-change">
+          <a
+            href="https://n24-sa.com/blog/"
+            class="animsition-link pointer-large nav-link"
+          >
+            <span class="nav-btn" data-text="Blog">Blog</span>
+          </a>
+          <div
+            class="nav-bg"
+            style="background-image: url(assets/images/backgrounds/menu6.jpg)"
+          ></div>
+        </li>
+        <!-- nav-box end -->
+        <div class="language_menu">
+          <ul>
+            <li>
+              <a
+                class="pointer-small animsition-link small-title-oswald hover-color"
+                href="./ar/index.html"
+                >AR</a
+              >
+            </li>
+            <li>
+              <a
+                class="pointer-small animsition-link small-title-oswald hover-color active"
+                href=""
+                >ENG</a
+              >
+            </li>
+          </ul>
+        </div>
+      </ul>
+      <!-- nav-menu end -->
+      <!-- nav-menu end -->
+    </nav>
+    <!-- nav-container end -->
+
+    <!-- animsition-overlay start -->
+    <main class="animsition-overlay" data-animsition-overlay="true">
+      <!-- home-slider start -->
+      <section class="home-slider" id="up">
+        <!-- swiper-wrapper start -->
+        <div class="swiper-wrapper">
+          <!-- swiper-slide start -->
+          <div class="swiper-slide flex-min-height-box home-slide">
+            <!-- slide-bg -->
+            <div
+              class="slide-bg overlay-loading2 overlay-dark-bg-1"
+              style="
+                background-image: url(assets/images/backgrounds/slider1.jpg);
+              "
+            ></div>
+            <!-- home-slider-content start -->
+            <div class="home-slider-content flex-min-height-inner dark-bg-1">
+              <!-- flex-container start -->
+              <div
+                class="container top-bottom-padding-120 flex-container response-999"
+              >
+                <!-- column start -->
+                <div class="six-columns six-offset">
+                  <div class="content-left-margin-40">
+                    <h2 class="large-title-bold">
+                      <span
+                        class="slider-title-fill slider-tr-delay01"
+                        data-text="We generate"
+                        >We generate</span
+                      ><br />
+                      <span
+                        class="slider-title-fill slider-tr-delay02"
+                        data-text="creative &"
+                        >creative &</span
+                      ><br />
+                      <span
+                        class="slider-title-fill slider-tr-delay03"
+                        data-text="innovative  ideas"
+                        >innovative ideas</span
+                      >
+                    </h2>
+                    <p class="p-style-bold-up text-height-20 d-flex-wrap">
+                      <span
+                        class="slider-title-fill slider-tr-delay04"
+                        data-text="Something out"
+                        >Something out</span
+                      >
+                      <span
+                        class="slider-title-fill slider-tr-delay05"
+                        data-text="of"
+                        >of</span
+                      >
+                      <span
+                        class="slider-title-fill slider-tr-delay06"
+                        data-text="this world"
+                        >this world</span
+                      >
+                    </p>
+                    <div class="slider-fade slider-tr-delay07 top-margin-30">
+                      <div class="border-btn-box border-btn-red pointer-large">
+                        <div class="border-btn-inner">
+                          <a
+                            href="about.html"
+                            class="border-btn"
+                            data-text="view more"
+                            >view more</a
+                          >
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <!-- column end -->
+              </div>
+              <!-- flex-container end -->
+            </div>
+            <!-- home-slider-content end -->
+          </div>
+          <!-- swiper-slide end -->
+          <!-- swiper-slide start -->
+          <div class="swiper-slide flex-min-height-box home-slide">
+            <!-- slide-bg -->
+            <div
+              class="slide-bg"
+              style="
+                background-image: url(assets/images/backgrounds/slider3.jpg);
+              "
+            ></div>
+            <!-- home-slider-content start -->
+            <div class="home-slider-content flex-min-height-inner dark-bg-2">
+              <!-- flex-container start -->
+              <div
+                class="container top-bottom-padding-120 flex-container response-999"
+              >
+                <!-- column start -->
+                <div class="six-columns six-offset">
+                  <div class="content-left-margin-40">
+                    <h2 class="slider-overlay2 medium-title red-color">
+                      Welcome to N24
+                    </h2>
+                    <h3 class="large-title-bold text-color-4">
+                      <span class="slider-overlay2 slider-tr-delay01"
+                        >Best ideas</span
+                      ><br />
+                      <span class="slider-overlay2 slider-tr-delay02"
+                        >& Solutions for</span
+                      ><br />
+                      <span class="slider-overlay2 slider-tr-delay03"
+                        >Your Business</span
+                      >
+                    </h3>
+                    <div class="slider-fade slider-tr-delay04 top-margin-30">
+                      <div class="border-btn-box pointer-large">
+                        <div class="border-btn-inner">
+                          <a
+                            href="about.html"
+                            class="border-btn"
+                            data-text="view more"
+                            >view more</a
+                          >
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <!-- column end -->
+              </div>
+              <!-- flex-container end -->
+            </div>
+            <!-- home-slider-content end -->
+          </div>
+          <!-- swiper-slide end -->
+          <!-- swiper-slide start -->
+          <div class="swiper-slide flex-min-height-box home-slide red-slide">
+            <!-- slide-bg -->
+            <div
+              class="slide-bg"
+              style="
+                background-image: url(assets/images/backgrounds/slider2.jpg);
+              "
+            ></div>
+            <!-- home-slider-content start -->
+            <div class="home-slider-content flex-min-height-inner red-bg">
+              <!-- flex-container start -->
+              <div
+                class="container top-bottom-padding-120 flex-container response-999"
+              >
+                <!-- column start -->
+                <div class="six-columns">
+                  <h2 class="large-title-bold">
+                    <span
+                      class="slider-title-fill slider-tr-delay01"
+                      data-text="We Provide"
+                      >We Provide</span
+                    ><br />
+                    <span
+                      class="slider-title-fill slider-tr-delay02"
+                      data-text="the Best"
+                      >the Best </span
+                    ><br />
+                    <span
+                      class="slider-title-fill slider-tr-delay03"
+                      data-text="Marketing Services"
+                      >Marketing Services</span
+                    >
+                  </h2>
+                  <!--<div
+                    class="small-title-oswald text-height-20 d-flex-wrap top-margin-20"
+                  >
+                    <span
+                      class="slider-title-fill slider-tr-delay04 top-margin-10"
+                      data-text="Creative team"
+                      >Creative team</span
+                    >
+                    <span
+                      class="slider-title-fill slider-tr-delay05 top-margin-10"
+                      data-text="Innovation ideas"
+                      >Innovative ideas</span
+                    >
+                    <span
+                      class="slider-title-fill slider-tr-delay06 top-margin-10"
+                      data-text="Best services"
+                      >Best services</span
+                    >
+                  </div>-->
+                  <div
+                    class="arrow-btn-box slider-fade slider-tr-delay06 top-margin-30"
+                  >
+                    <a href="about.html" class="arrow-btn pointer-large"
+                      >view more</a
+                    >
+                  </div>
+                </div>
+                <!-- column end -->
+              </div>
+              <!-- flex-container end -->
+            </div>
+            <!-- home-slider-content end -->
+          </div>
+          <!-- swiper-slide end -->
+        </div>
+        <!-- swiper-wrapper end -->
+
+        <!-- swiper-button-next start -->
+        <div class="swiper-button-next">
+          <div class="slider-arrow-next-box">
+            <span class="slider-arrow-next"></span>
+          </div>
+        </div>
+        <!-- swiper-button-next end -->
+        <!-- swiper-button-prev start -->
+        <div class="swiper-button-prev">
+          <div class="slider-arrow-prev-box">
+            <span class="slider-arrow-prev"></span>
+          </div>
+        </div>
+        <!-- swiper-button-prev end -->
+
+        <!-- swiper-pagination -->
+        <div class="swiper-pagination"></div>
+
+        <!-- scroll-btn start -->
+        <a href="#down" class="scroll-btn pointer-large">
+          <div class="scroll-arrow-box">
+            <span class="scroll-arrow"></span>
+          </div>
+          <div class="scroll-btn-flip-box">
+            <span class="scroll-btn-flip" data-text="Scroll">Scroll</span>
+          </div> </a
+        ><!-- scroll-btn end -->
+      </section>
+      <!-- home-slider end -->
+
+      <!-- flex-min-height-box start -->
+      <section id="down" class="dark-bg-1 flex-min-height-box">
+        <!-- flex-min-height-inner start -->
+        <div class="flex-min-height-inner">
+          <!-- container start -->
+          <div class="container small top-bottom-padding-120">
+            <!-- flex-container start -->
+            <div data-animation-container class="flex-container">
+              <!-- column start -->
+              <div class="twelve-columns text-center">
+                <h2 class="large-title text-height-12">
+                  <span
+                    data-animation-child
+                    class="title-fill"
+                    data-animation="title-fill-anim"
+                    data-text="We create something"
+                    >We create something</span
+                  ><br />
+                  <span
+                    data-animation-child
+                    class="title-fill tr-delay01"
+                    data-animation="title-fill-anim"
+                    data-text="out of this world"
+                    >out of this world</span
+                  >
+                </h2>
+              </div>
+              <!-- column end -->
+              <!-- column start -->
+              <div class="six-columns">
+                <div class="content-right-margin-20">
+                  <p
+                    data-animation-child
+                    class="p-style-medium text-color-4 fade-anim-box tr-delay02"
+                    data-animation="fade-anim"
+                  >
+                    N24 is a company specialized in digital marketing and event
+                    management. Established in 2018 and headquartered in Riyadh,
+                    Saudi Arabia. It provides comprehensive digital media
+                    services as well as innovative event management solutions.
+                    <br />
+                    We are an integrated work system made up from many parts. We
+                    work as a family, where everyone play his own role with
+                    professionalism and specialization (designers, content
+                    writers, photographers and idea generators).
+                  </p>
+                </div>
+              </div>
+              <!-- column end -->
+              <!-- column start -->
+              <div class="six-columns">
+                <div class="content-left-margin-20">
+                  <div
+                    data-animation-container
+                    class="content-left-right-margin-10"
+                  >
+                    <p
+                      data-animation-child
+                      class="small-title-oswald red-color overlay-anim-box2"
+                      data-animation="overlay-anim2"
+                    ></p>
+                    <h6 class="title-style text-color-4">
+                      <span
+                        data-animation-child
+                        class="overlay-anim-box2 overlay-light-bg-1 tr-delay01"
+                        data-animation="overlay-anim2"
+                        >"Creativity is seeing what others see and thinking what
+                        no one else ever thought."
+                        <span style="font-size: 16px"> - Albert Einstein.</span>
+                      </span>
+                      <br />
+                      <br />
+                      <br />
+                      <div style="display: flex">
+                        <span
+                          data-animation-child
+                          class="overlay-anim-box2 overlay-light-bg-1 tr-delay02"
+                          style="font-size: 100px"
+                          data-animation="overlay-anim2"
+                          >5</span
+                        >
+                        <span
+                          data-animation-child
+                          class="overlay-anim-box2 overlay-light-bg-1 tr-delay03"
+                          data-animation="overlay-anim2"
+                          style="margin: 15px 30px"
+                          >YEARS OF <br />Marketing EXPERIENCE</span
+                        >
+                      </div>
+                    </h6>
+                  </div>
+                </div>
+              </div>
+              <!-- column end -->
+              <!-- column start -->
+              <!-- <div class="twelve-columns text-center">
+                <p
+                  data-animation-child
+                  class="p-letter-style text-color-4 text-height-13 fade-anim-box tr-delay04"
+                  data-animation="fade-anim"
+                >
+                  Godard slow-carb chartreuse occupy, tumblr letterpress
+                </p>
+              </div> -->
+              <!-- column end -->
+            </div>
+            <!-- flex-container end -->
+          </div>
+          <!-- container end -->
+        </div>
+        <!-- flex-min-height-inner end -->
+      </section>
+      <!-- flex-min-height-box end -->
+
+      <!-- section start -->
+      <section class="light-bg-2" data-midnight="black">
+        <!-- container start -->
+        <div class="container small top-bottom-padding-120">
+          <!-- medium-title start -->
+          <h2 data-animation-container class="medium-title">
+            <span
+              data-animation-child
+              class="large-title text-height-10 text-color-1 overlay-anim-box2"
+              data-animation="overlay-anim2"
+              data-text="Who We’ve"
+              >Who We’ve</span
+            ><br />
+            <span
+              data-animation-child
+              class="large-title text-height-10 text-color-1 overlay-anim-box2 tr-delay01"
+              data-animation="overlay-anim2"
+              data-text="Worked with"
+              >Worked with</span
+            ><br />
+            <!-- <span
+              data-animation-child
+              class="large-title text-height-10 text-color-1 overlay-anim-box2 tr-delay02"
+              data-animation="overlay-anim2"
+              data-text="With"
+              >With</span
+            > -->
+          </h2>
+          <!-- medium-title end -->
+
+          <!-- client-list start -->
+          <ul class="client-list d-flex-wrap top-padding-60">
+            <li>
+              <a class="pointer-large d-block">
+                <div class="brand-box">
+                  <img
+                    src="assets/images/clients/one.png"
+                    alt="Brand"
+                    class="hover-opac-img"
+                    loading="lazy"
+                  />
+                  <img
+                    src="assets/images/clients/one_color.png"
+                    alt="Brand"
+                    class="opac-img"
+                    loading="lazy"
+                  />
+                </div>
+              </a>
+            </li>
+            <li>
+              <a class="pointer-large d-block">
+                <div class="brand-box">
+                  <img
+                    src="assets/images/clients/fivteen.png"
+                    alt="Brand"
+                    class="hover-opac-img"
+                    loading="lazy"
+                  />
+                  <img
+                    src="assets/images/clients/fivteen_color.png"
+                    alt="Brand"
+                    class="opac-img"
+                    loading="lazy"
+                  />
+                </div>
+              </a>
+            </li>
+            <li>
+              <a class="pointer-large d-block">
+                <div class="brand-box">
+                  <img
+                    src="assets/images/clients/tweleve.png"
+                    alt="Brand"
+                    class="hover-opac-img"
+                    loading="lazy"
+                  />
+                  <img
+                    src="assets/images/clients/tweleve_color.png"
+                    alt="Brand"
+                    class="opac-img"
+                    loading="lazy"
+                  />
+                </div>
+              </a>
+            </li>
+            <li>
+              <a class="pointer-large d-block">
+                <div class="brand-box">
+                  <img
+                    src="assets/images/clients/four.png"
+                    alt="Brand"
+                    class="hover-opac-img"
+                    loading="lazy"
+                  />
+                  <img
+                    src="assets/images/clients/four_color.png"
+                    alt="Brand"
+                    class="opac-img"
+                    loading="lazy"
+                  />
+                </div>
+              </a>
+            </li>
+            <li>
+              <a class="pointer-large d-block">
+                <div class="brand-box">
+                  <img
+                    src="assets/images/clients/five.png"
+                    alt="Brand"
+                    class="hover-opac-img"
+                    loading="lazy"
+                  />
+                  <img
+                    src="assets/images/clients/five_color.png"
+                    alt="Brand"
+                    class="opac-img"
+                    loading="lazy"
+                  />
+                </div>
+              </a>
+            </li>
+            <li>
+              <a class="pointer-large d-block">
+                <div class="brand-box">
+                  <img
+                    src="assets/images/clients/fourteen.png"
+                    alt="Brand"
+                    class="hover-opac-img"
+                    loading="lazy"
+                  />
+                  <img
+                    src="assets/images/clients/fourteen_color.png"
+                    alt="Brand"
+                    class="opac-img"
+                    loading="lazy"
+                  />
+                </div>
+              </a>
+            </li>
+            <li>
+              <a class="pointer-large d-block">
+                <div class="brand-box">
+                  <img
+                    src="assets/images/clients/seven.png"
+                    alt="Brand"
+                    class="hover-opac-img"
+                    loading="lazy"
+                  />
+                  <img
+                    src="assets/images/clients/seven_color.png"
+                    alt="Brand"
+                    class="opac-img"
+                    loading="lazy"
+                  />
+                </div>
+              </a>
+            </li>
+            <li>
+              <a class="pointer-large d-block">
+                <div class="brand-box">
+                  <img
+                    src="assets/images/clients/eight.png"
+                    alt="Brand"
+                    class="hover-opac-img"
+                    loading="lazy"
+                  />
+                  <img
+                    src="assets/images/clients/eight_color.png"
+                    alt="Brand"
+                    class="opac-img"
+                    loading="lazy"
+                  />
+                </div>
+              </a>
+            </li>
+            <li>
+              <a class="pointer-large d-block">
+                <div class="brand-box">
+                  <img
+                    src="assets/images/clients/thirteen.png"
+                    alt="Brand"
+                    class="hover-opac-img"
+                    loading="lazy"
+                  />
+                  <img
+                    src="assets/images/clients/thirteen_color.png"
+                    alt="Brand"
+                    class="opac-img"
+                    loading="lazy"
+                  />
+                </div>
+              </a>
+            </li>
+            <li>
+              <a class="pointer-large d-block">
+                <div class="brand-box">
+                  <img
+                    src="assets/images/clients/ten.png"
+                    alt="Brand"
+                    class="hover-opac-img"
+                    loading="lazy"
+                  />
+                  <img
+                    src="assets/images/clients/ten_color.png"
+                    alt="Brand"
+                    class="opac-img"
+                    loading="lazy"
+                  />
+                </div>
+              </a>
+            </li>
+            <li>
+              <a class="pointer-large d-block">
+                <div class="brand-box">
+                  <img
+                    src="assets/images/clients/sixteen.png"
+                    alt="Brand"
+                    class="hover-opac-img"
+                    loading="lazy"
+                  />
+                  <img
+                    src="assets/images/clients/sixteen_color.png"
+                    alt="Brand"
+                    class="opac-img"
+                    loading="lazy"
+                  />
+                </div>
+              </a>
+            </li>
+            <li class="empty-spot-box">
+              <a
+                data-animation-container
+                class="pointer-large p-style-bold-up empty-spot d-block"
+              >
+                <span
+                  data-animation-child
+                  class="title-fill"
+                  data-animation="title-fill-anim"
+                  data-text="This spot"
+                  style="color: #644b9e"
+                  >This spot</span
+                >
+                <span
+                  data-animation-child
+                  class="title-fill tr-delay01"
+                  data-animation="title-fill-anim"
+                  data-text="Awaits"
+                  >Awaits</span
+                >
+                <span
+                  data-animation-child
+                  class="title-fill tr-delay02"
+                  style="color: #644b9e"
+                  data-animation="title-fill-anim"
+                  data-text="You"
+                  >You</span
+                >
+              </a>
+            </li>
+          </ul>
+          <!-- client-list end -->
+        </div>
+        <!-- container end -->
+      </section>
+      <!-- section end -->
+
+      <!-- video-content-bg start -->
+      <div
+        class="video-content-bg"
+        style="background-image: url(assets/images/backgrounds/video_back.jpg)"
+      >
+        <iframe
+          width="100%"
+          height="100%"
+          src="https://www.youtube.com/embed/poNuSlpLVz0?rel=0&showinfo=0"
+          title="YouTube video player"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          allowfullscreen
+          loading="lazy"
+        ></iframe>
+
+        <!-- <div class="bg-overlay"></div>
+        <a
+          href="./assets/video/video.mp4"
+          class="video-play-button popup-youtube pointer-large"
+        >
+          <span></span>
+        </a> -->
+      </div>
+      <!-- video-content-bg end -->
+    </main>
+    <!-- animsition-overlay end -->
+
+    <!-- footer start -->
+    <footer class="footer dark-bg-1">
+      <!-- flex-container start -->
+      <div
+        class="flex-container container top-padding-90"
+        style="padding-bottom: 25px"
+      >
+        <!-- column start -->
+        <div class="three-columns bottom-padding-60">
+          <div class="content-right-margin-10 footer-center-mobile">
+            <img
+              class="footer-logo"
+              src="assets/images/logo/logo-white.png"
+              alt="logo"
+              loading="lazy"
+            />
+          </div>
+        </div>
+        <!-- column end -->
+        <!-- column start -->
+        <div class="two-columns bottom-padding-60">
+          <div class="content-left-right-margin-10">
+            <ul class="footer-menu text-color-4">
+              <li>
+                <a
+                  class="pointer-large animsition-link small-title-oswald hover-color active"
+                  href="index.html"
+                  >Home</a
+                >
+              </li>
+              <li>
+                <a
+                  class="pointer-large animsition-link small-title-oswald hover-color"
+                  href="about.html"
+                  >About</a
+                >
+              </li>
+              <li>
+                <a
+                  class="pointer-large animsition-link small-title-oswald hover-color"
+                  href="services.html"
+                  >Services</a
+                >
+              </li>
+              <li>
+                <a
+                  class="pointer-large animsition-link small-title-oswald hover-color"
+                  href="portfolio.html"
+                  >Portfolio</a
+                >
+              </li>
+              <li>
+                <a
+                  class="pointer-large animsition-link small-title-oswald hover-color"
+                  href="contact.html"
+                  >Contact Us</a
+                >
+              </li>
+              <li>
+                <a
+                  class="pointer-large animsition-link small-title-oswald hover-color"
+                  href="./assets/profle.pdf"
+                  target="_blank"
+                  >company Profile</a
+                >
+              </li>
+            </ul>
+          </div>
+        </div>
+        <!-- column end -->
+        <!-- column start -->
+        <div class="four-columns bottom-padding-60">
+          <div class="content-left-right-margin-10 footer-center-mobile">
+            <ul class="footer-information text-color-4">
+              <li>
+                <i class="far fa-envelope"></i
+                ><a href="mailto:info@n24-sa.com" class="xsmall-title-oswald"
+                  >info@n24-sa.com</a
+                >
+              </li>
+              <li>
+                <i class="fas fa-mobile-alt"></i
+                ><a href="tel:+966532402424" class="xsmall-title-oswald"
+                  >+966532402424</a
+                >
+              </li>
+              <li>
+                <i class="fas fa-mobile-alt"></i
+                ><a href="tel:+966509237239" class="xsmall-title-oswald"
+                  >+966509237239</a
+                >
+              </li>
+              <li>
+                <i class="fas fa-map-marker-alt"></i
+                ><a
+                  href="https://maps.app.goo.gl/eNbyac6FEKvwiotBA"
+                  target="_blank"
+                  class="xsmall-title-oswald text-height-17"
+                  >Anas bin Malik Street, Alsahafa<br />
+                  <span>Building 9 floor 1 office 2</span><br />
+                  <span>Riyadh, Saudi Arabia</span></a
+                >
+              </li>
+            </ul>
+          </div>
+        </div>
+        <!-- column end -->
+        <!-- column start -->
+        <div class="three-columns bottom-padding-60">
+          <div class="content-left-margin-10">
+            <ul class="footer-social">
+              <li>
+                <ion-icon name="logo-instagram"></ion-icon>
+                <div class="flip-btn-box">
+                  <a
+                    href="https://www.instagram.com/id_n24/"
+                    target="_blank"
+                    class="flip-btn pointer-small"
+                    data-text="Instagram"
+                    >Instagram</a
+                  >
+                </div>
+              </li>
+              <li>
+                <ion-icon name="logo-twitter"></ion-icon>
+                <div class="flip-btn-box">
+                  <a
+                    href="https://twitter.com/id_n24?s=21"
+                    target="_blank"
+                    class="flip-btn pointer-small"
+                    data-text="Twitter"
+                    >Twitter</a
+                  >
+                </div>
+              </li>
+              <li>
+                <ion-icon name="logo-linkedin"></ion-icon>
+                <div class="flip-btn-box">
+                  <a
+                    href="https://www.linkedin.com/company/id-n24/"
+                    target="_blank"
+                    class="flip-btn pointer-small"
+                    data-text="Linkedin"
+                    >Linkedin</a
+                  >
+                </div>
+              </li>
+              <li>
+                <ion-icon name="logo-tiktok"></ion-icon>
+                <div class="flip-btn-box">
+                  <a
+                    href="https://www.tiktok.com/@id_n24?_d=secCgwIARCbDRjEFSADKAESPgo8My3OU2ta%2Blm%2FHmbdTkxdRqL570xfHDBpBJu0Hrx83NrM%2B%2FAR6vKdqspH7aZ5Ugw6gj%2F9sLUxx5Dw%2BPcdGgA%3D&checksum=adde1fca2b8e05b63e72c8aff63306a272c46d83edfbe9290ec98f1548cfb3b9&language=ar&sec_uid=MS4wLjABAAAA1peBi7Ew5_QHSOVOUDsZ-Pq_bsuAax9Wo_wOfLY8C5Y2QJLmSUOZcVA1ofwqgUlD&sec_user_id=MS4wLjABAAAARKCZcZXGwx4zZuOfq5Y7MLriuIWMIuJM3IMaqjA4hGBK6ZBdmAmyEKL6sPGmqyHn&share_app_id=1233&share_author_id=7059323809112196097&share_link_id=3BF0FA13-D05F-43E6-9F9C-17928EB7C630&tt_from=copy&u_code=db63e2mhca5gb6&user_id=6799400162269529094&utm_campaign=client_share&utm_medium=ios&utm_source=copy&source=h5_m&_r=1"
+                    class="flip-btn pointer-small"
+                    data-text="Tiktok"
+                    target="_blank"
+                    >Tiktok</a
+                  >
+                </div>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <!-- column end -->
+        <!-- column start -->
+        <div class="twelve-columns">
+          <p class="p-letter-style text-color-4 footer-copyright">
+            &copy;2022 all rights reserved for N24 Creative Agency
+          </p>
+        </div>
+        <!-- column end -->
+      </div>
+      <!-- flex-container end -->
+    </footer>
+    <!-- footer end -->
+
+    <!-- scripts -->
+    <script src="assets/js/plugins.js"></script>
+    <script src="assets/js/main.js"></script>
+    <script type="module" src="./assets/js/ionicons.esm.js"></script>
+    <script nomodule src="./assets/js/ionicons.js"></script>
+  </body>
+</html>
